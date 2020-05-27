@@ -1,0 +1,11 @@
+__pycache__/
+deeplab_model/
+models/
+Models/
+sample_video/
+sample_video_fixed/
+*_masksDL.png
+*_compose.png
+*_fg.png
+*_matte.png
+*_out.png

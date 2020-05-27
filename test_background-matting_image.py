@@ -17,6 +17,7 @@ from networks import ResnetConditionHR
 
 torch.set_num_threads(1)
 #os.environ["CUDA_VISIBLE_DEVICES"]="4"
+os.environ["CUDA_VISIBLE_DEVICES"]="0"
 print('CUDA Device: ' + os.environ["CUDA_VISIBLE_DEVICES"])
 
 
